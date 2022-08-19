@@ -1,0 +1,3 @@
+[mysqld]  
+port = {PORT}
+sql_mode=NO_ENGINE_SUBSTITUTION
